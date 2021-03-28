@@ -2,7 +2,7 @@
 
 ### Hi 👋! Name's Marcelo (but you can call me Mars) 
 
-I'm a self taught web developer & designer, entrepreneur and ex-founder, loving to help build innovative and successful products everyday
+I'm a self taught web developer / designer / entrepreneur / ex-founder who loves to help build innovative and successful products everyday
 
 - 🔭 &nbsp; I'm currently helping out a very nice guy to make his own cool killer app a reality :rocket:
 - 🌱 &nbsp; I’m also learning how to code three.js apps with EmberJS + Blender for a personal project
