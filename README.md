@@ -1,5 +1,3 @@
-## [SEEKING][+8Yr EMBER][SR-FULL-STACK][REMOTE][CONTRACT-EUROPE]
-
 ### Hi 👋! Name's Marcelo (but you can call me Mars) 
 
 I'm a self taught web developer / designer / entrepreneur / ex-founder who loves to help build innovative and successful products everyday
